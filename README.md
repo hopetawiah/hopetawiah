@@ -2,13 +2,13 @@
 
 ### Cybersecurity Researcher | IT Systems & Security Professional | Software Developer
 
-I am an Information Technology and Cybersecurity researcher whose work combines **cybersecurity research, machine learning, secure systems engineering, network and systems administration, software development, and practical security implementation**.
+I am an **Information Technology and Cybersecurity researcher** with interests in **Zero Trust Architecture, Artificial Intelligence for Cybersecurity, Federated Learning, IoT Security, Intrusion Detection, Identity and Access Management, Network Security, Cloud Security, and Cybersecurity Resilience**.
 
-My research interests focus on **Zero Trust Architecture, Artificial Intelligence for Cybersecurity, Federated Learning, IoT Security, Intrusion Detection, Identity and Access Management, Adaptive Access Control, Cloud Security, Network Security, and Cybersecurity Resilience**.
+My academic and technical work combines **cybersecurity research, machine learning, secure network and systems engineering, software development, data analysis, and practical security implementation**.
 
-My academic and technical development spans secure network infrastructure, enterprise systems, machine-learning-based security research, federated learning, and Zero Trust architecture.
+My research progression spans secure corporate network infrastructure, distributed machine-learning security, Zero Trust architecture, and the development of secure production information systems.
 
-I am particularly interested in designing **intelligent, adaptive, explainable, and resilient cybersecurity architectures for distributed, cloud, IoT, and multi-cloud environments**.
+I am particularly interested in developing **intelligent, adaptive, explainable, and resilient cybersecurity architectures for distributed, cloud, IoT, edge, and multi-cloud environments**.
 
 ---
 
@@ -29,8 +29,9 @@ I am particularly interested in designing **intelligent, adaptive, explainable, 
 - Secure Distributed Systems
 - Digital Forensics
 - Explainable AI for Security
-- Security Architecture Evaluation
 - Continuous Authentication and Verification
+- Security Architecture Evaluation
+- Behaviour-Based Security Analytics
 
 ---
 
@@ -38,20 +39,21 @@ I am particularly interested in designing **intelligent, adaptive, explainable, 
 
 ## 🔐 MPhil Information Technology — Zero Trust Security Architecture
 
-**Ghana Communication Technology University (GCTU)**
+**Ghana Communication Technology University (GCTU)**  
+**Faculty of Computing and Information Systems**
 
 ### Research Topic
 
 **A Simulation-Based Analysis of Perimeter-Based and Zero Trust Security Architecture for Enhancing Cybersecurity Resilience in Higher Education Institutions**
 
-This research evaluates **Perimeter-Based Security Architecture and Zero Trust Security Architecture** through a controlled cybersecurity simulation using selected CICIDS2017 network-traffic data and machine-learning-based intrusion detection.
+This research evaluates **Perimeter-Based Security Architecture and Zero Trust Security Architecture** through a controlled cybersecurity simulation using selected **CICIDS2017** network-traffic data and machine-learning-based intrusion detection.
 
-The study separates a common **Random Forest intrusion-detection engine** from an architecture-specific decision layer.
+The experimental design separates a common **Random Forest intrusion-detection engine** from an architecture-specific decision layer.
 
-- **Perimeter-Based Security threshold:** 0.50
-- **Zero Trust Security threshold:** 0.35
+- **Perimeter-Based Security threshold:** `0.50`
+- **Zero Trust Security threshold:** `0.35`
 
-The Zero Trust condition represents a stricter and more risk-sensitive simulated security posture.
+The Zero Trust condition represents a more risk-sensitive simulated decision policy intended to reduce missed malicious activity.
 
 ### Research Focus
 
@@ -97,7 +99,7 @@ The study also includes:
 - Threshold-sensitivity analysis
 - Confusion-matrix evaluation
 - Precision–recall trade-off analysis
-- Architecture-specific decision thresholds
+- Architecture-specific decision modelling
 - Explicit distinction between classifier-derived metrics and simulation scenario parameters
 
 🔗 **Research Repository:**  
@@ -113,9 +115,9 @@ The study also includes:
 
 **A Secure and Communication-Efficient Federated Learning Framework for IoT in Resource-Constrained Environments**
 
-This research develops and evaluates **ACES-FL — Adaptive, Communication-Efficient and Secure Federated Learning**, designed to support cybersecurity and intrusion detection in heterogeneous and resource-constrained IoT environments.
+This research develops and evaluates **ACES-FL — Adaptive, Communication-Efficient and Secure Federated Learning**, a federated-learning framework designed for cybersecurity and intrusion detection in heterogeneous and resource-constrained IoT environments.
 
-The work combines **federated learning, IoT intrusion detection, communication efficiency, resource-aware participation, model security, and malicious-client defence**.
+The research combines **distributed machine learning, IoT intrusion detection, communication efficiency, resource-aware client participation, model security, and malicious-client defence**.
 
 ### Research Focus
 
@@ -125,7 +127,7 @@ The work combines **federated learning, IoT intrusion detection, communication e
 - Communication-Efficient Distributed Learning
 - Resource-Constrained Environments
 - Resource-Aware Client Selection
-- Fairness-Aware Participation
+- Fairness-Aware Federated Participation
 - Adaptive Communication
 - Model Compression
 - Model Poisoning
@@ -144,7 +146,7 @@ The work combines **federated learning, IoT intrusion detection, communication e
 - NumPy
 - UNSW-NB15
 
-### ACES-FL Research Components
+### ACES-FL Components
 
 - Resource-aware client selection
 - Fairness-aware client participation
@@ -155,8 +157,8 @@ The work combines **federated learning, IoT intrusion detection, communication e
 - Malicious-update screening
 - Robust aggregation
 - Communication-cost evaluation
-- Experimental result generation
 - Federated client simulation
+- Experimental result generation
 
 🔗 **Research Repository:**  
 [secure-federated-learning-iot](https://github.com/hopetawiah/secure-federated-learning-iot)
@@ -165,7 +167,7 @@ The work combines **federated learning, IoT intrusion detection, communication e
 
 # 🎓 Undergraduate Research & Infrastructure Engineering
 
-## 🖧 BSc Information Technology — Secure Corporate Network & Systems Infrastructure
+## 🖧 BSc Information Technology — Secure Corporate Network & System Infrastructure
 
 **Ghana Communication Technology University (GCTU)**  
 **September 2024**
@@ -186,25 +188,29 @@ The work combines **federated learning, IoT intrusion detection, communication e
 
 ### Project Overview
 
-This group project focused on the **design and implementation of a secure and scalable corporate network and systems infrastructure** for the Ghana Education Trust Fund.
+This group project focused on the **design and implementation of a secure and scalable corporate network and system infrastructure**.
 
-The work assessed weaknesses in the existing network environment and proposed an improved architecture incorporating **network segmentation, firewalls, centralized identity management, domain-based authentication, DNS, DHCP, access control, backup planning, and business-continuity considerations**.
+The project assessed weaknesses within an existing organizational network environment and proposed an improved architecture integrating **network segmentation, firewall protection, centralized identity management, domain-based authentication, DNS, DHCP, access control, backup planning, and business-continuity considerations**.
 
-The project used the **PPDIOO methodology — Prepare, Plan, Design, Implement, Operate, and Optimize —** to structure the network-development lifecycle.
+The project followed the **PPDIOO methodology**:
+
+**Prepare → Plan → Design → Implement → Operate → Optimize**
 
 ### Project Objectives
 
-- Assess the existing network infrastructure and identify security weaknesses
-- Design a modern, secure, and scalable corporate network
-- Introduce network segmentation and access controls
-- Improve centralized user and resource management
-- Implement network services and domain administration
-- Test connectivity and validate the redesigned infrastructure
+- Assess the existing corporate network infrastructure
+- Identify network and security weaknesses
+- Design a secure and scalable network architecture
+- Introduce logical network segmentation
+- Strengthen centralized identity management
+- Implement network and domain services
+- Improve network manageability
+- Test connectivity and validate the new infrastructure
 - Incorporate backup and business-continuity considerations
 
 ### Secure Network Architecture
 
-The designed infrastructure incorporated:
+The designed environment incorporated:
 
 - ISP connectivity
 - Cisco routing
@@ -212,17 +218,17 @@ The designed infrastructure incorporated:
 - Core switching
 - Access switching
 - Departmental VLAN segmentation
-- Windows Server
+- Windows Server infrastructure
 - Active Directory Domain Services
 - DNS
 - DHCP
 - Centralized authentication
 - Role-Based Access Control
-- Backup and business-continuity planning
+- Backup and recovery planning
 
 ### VLAN Segmentation
 
-The network was logically divided into multiple VLANs:
+The network was logically divided into organizational VLANs:
 
 - **VLAN 10 — Administrators**
 - **VLAN 20 — Principal Administrators**
@@ -230,7 +236,7 @@ The network was logically divided into multiple VLANs:
 - **VLAN 40 — Assistant Administrators**
 - **VLAN 50 — IT Unit**
 
-VLAN segmentation was used to isolate traffic between organizational groups, improve network performance, and reduce the possible spread of security incidents across the environment.
+Network segmentation was used to improve traffic organization, isolate departmental systems, improve manageability, and reduce the possible spread of security incidents.
 
 ### Identity & Access Management
 
@@ -240,26 +246,27 @@ The Windows Server environment incorporated:
 - Domain Controller configuration
 - Organizational Units
 - Security groups
-- User account administration
+- User-account administration
 - Domain-based authentication
 - Role-Based Access Control
-- Centralized management of computers and users
+- Centralized user management
+- Centralized computer management
 - Client computers joined to the domain
 
 ### Network Services
 
-The implementation covered:
+The implementation included:
 
-- Active Directory installation
 - DNS configuration
 - Forward lookup zones
 - Reverse lookup zones
-- DHCP installation and configuration
-- IP address allocation
-- Domain-controller deployment
+- DHCP configuration
+- IP-address allocation
+- Domain Controller deployment
 - Client-domain integration
-- Network connectivity testing
+- User-account creation
 - Domain-user authentication
+- Network connectivity testing
 
 ### Security & Infrastructure Features
 
@@ -289,20 +296,20 @@ The implementation covered:
 - DHCP
 - RBAC
 - Firewall Technologies
-- NAT
+- Network Address Translation
 - Windows Client Systems
 
 ### Implementation Evidence
 
-The project documented:
+The repository documents:
 
 - Existing network architecture
 - Proposed secure network architecture
-- Network topology and circuit design
+- Network topology
 - VLAN configuration
 - Switch-port allocation
 - IP addressing and subnet design
-- Successful connectivity testing
+- Connectivity testing
 - Active Directory deployment
 - DNS configuration
 - DHCP configuration
@@ -313,17 +320,20 @@ The project documented:
 
 ### Project Outcome
 
-The project demonstrated the design and implementation of a **layered and scalable corporate network architecture** integrating network segmentation, firewall protection, centralized identity management, DNS, DHCP, domain-based administration, and structured access control.
+The project demonstrated a **layered and scalable corporate network architecture** integrating segmentation, firewall protection, centralized identity management, DNS, DHCP, domain administration, and structured access control.
 
-This undergraduate work established an important technical foundation for my later research in:
+This undergraduate work established a technical foundation for my later interests in:
 
 - Zero Trust Architecture
 - Identity and Access Management
 - Network Segmentation
 - Risk-Based Access Control
 - Cybersecurity Resilience
+- Secure Distributed Systems
 - Secure Information Systems
-- Cloud and Distributed Security
+
+🔗 **Project Repository:**  
+[secure-corporate-network-infrastructure](https://github.com/hopetawiah/secure-corporate-network-infrastructure)
 
 ---
 
@@ -331,9 +341,9 @@ This undergraduate work established an important technical foundation for my lat
 
 ## 🏫 Dunamis Crown Academy School ERP
 
-A production **School Enterprise Resource Planning and Management Information System** designed and developed for Dunamis Crown Academy, Ghana.
+A production **School Enterprise Resource Planning and Management Information System** designed and developed for **Dunamis Crown Academy, Ghana**.
 
-The platform integrates academic management, finance, communications, analytics, reporting, cybersecurity controls, backup and recovery, and secure administration.
+The platform integrates academic management, financial administration, communication, analytics, cybersecurity controls, reporting, backup and recovery, access governance, and secure system administration.
 
 ### Academic & Administrative Modules
 
@@ -358,7 +368,7 @@ The platform integrates academic management, finance, communications, analytics,
 - Financial Reports
 - Cashier Closing
 
-### Communication Modules
+### Communication
 
 - Announcements
 - Notifications
@@ -374,7 +384,7 @@ The platform integrates academic management, finance, communications, analytics,
 - Delete and Restore Centre
 - Backup and Recovery
 - System Health Monitoring
-- Secure Administration
+- Secure Administrative Controls
 
 ### Cybersecurity Engineering Features
 
@@ -430,15 +440,16 @@ https://portal.dunamiscrownacademy.com/
 
 ---
 
-# 🛡️ Research & Technical Progression
+# 🛡️ Academic & Technical Progression
 
-My academic and engineering work reflects a progression from foundational infrastructure security to intelligent and adaptive cybersecurity architectures:
+My work reflects a progression from foundational network and infrastructure security toward intelligent and adaptive cybersecurity architectures.
 
-### BSc
-**Secure Corporate Network & Systems Infrastructure**
+## BSc — Secure Corporate Network Infrastructure
 
-Focus:
+**Foundation in:**
+
 - Network segmentation
+- VLANs
 - Firewalls
 - Active Directory
 - DNS
@@ -448,34 +459,36 @@ Focus:
 
 ⬇️
 
-### MSc
-**Secure Federated Learning for IoT**
+## MSc — Secure Federated Learning for IoT
 
-Focus:
+**Development into:**
+
 - Federated learning
 - IoT intrusion detection
+- Resource-aware distributed learning
 - Model security
 - Communication efficiency
-- Resource-aware distributed learning
+- Adversarial machine learning
 
 ⬇️
 
-### MPhil
-**Zero Trust Security Architecture**
+## MPhil — Zero Trust Security Architecture
 
-Focus:
+**Research focus on:**
+
 - Zero Trust
-- Risk-sensitive access decisions
+- Continuous verification
+- Risk-sensitive decisions
 - Machine-learning intrusion detection
 - Cybersecurity resilience
 - Adaptive security architecture
 
 ⬇️
 
-### Production Engineering
-**Dunamis Crown Academy School ERP**
+## Production Engineering — Dunamis School ERP
 
-Focus:
+**Practical implementation of:**
+
 - Secure software engineering
 - RBAC
 - Two-factor authentication
@@ -497,8 +510,8 @@ Focus:
 - Risk-Based Access Control
 - Role-Based Access Control
 - Cybersecurity Risk Assessment
-- Security Architecture
 - Vulnerability Assessment
+- Security Architecture
 - Security Monitoring
 - Audit Logging
 - Digital Forensics
@@ -575,7 +588,7 @@ Focus:
 
 **Google / Coursera — May 2026**
 
-Areas include:
+Areas covered include:
 
 - Cybersecurity foundations
 - Linux
@@ -595,7 +608,7 @@ Areas include:
 
 **Google / Coursera — June 2026**
 
-Areas include:
+Areas covered include:
 
 - Data preparation
 - Data cleaning
@@ -615,15 +628,15 @@ My doctoral research interests lie at the intersection of:
 
 **Artificial Intelligence + Zero Trust + Adaptive Access Control + Cloud Security + Intrusion Detection**
 
-I am particularly interested in cybersecurity architectures capable of continuously evaluating:
+I am particularly interested in designing intelligent security architectures capable of continuously evaluating:
 
 - User identity
 - Device posture
 - User behaviour
 - Network context
+- Authentication context
 - Access patterns
 - Threat intelligence
-- Authentication context
 - Security risk
 
 Potential doctoral research areas include:
@@ -636,11 +649,12 @@ Potential doctoral research areas include:
 - Behaviour-Based Security Analytics
 - Federated Learning for Distributed Cybersecurity
 - AI-Enhanced Intrusion Detection
-- Continuous Authentication
+- Continuous Authentication and Verification
 - Secure IoT and Edge Computing
 - Cybersecurity Resilience
+- Adaptive Trust Evaluation
 
-My long-term goal is to contribute to the development of **adaptive, explainable, intelligent, and resilient cybersecurity architectures for complex distributed systems**.
+My long-term goal is to contribute to the development of **adaptive, explainable, intelligent, and resilient cybersecurity architectures for complex distributed environments**.
 
 ---
 
@@ -661,6 +675,8 @@ I am interested in collaborating on research involving:
 - Digital Forensics
 - Secure Distributed Systems
 - Cybersecurity Resilience
+
+I am also interested in collaboration on **research papers, experimental cybersecurity systems, open-source security projects, and doctoral research initiatives**.
 
 ---
 
@@ -684,17 +700,19 @@ MSc research implementation covering secure and communication-efficient federate
 
 ## 🖧 Secure Corporate Network Infrastructure
 
-BSc Information Technology project covering enterprise network design, VLAN segmentation, firewall protection, Active Directory, DNS, DHCP, RBAC, domain administration, and connectivity testing.
+BSc Information Technology project documenting secure enterprise network architecture, VLAN segmentation, firewall protection, Active Directory, DNS, DHCP, RBAC, domain administration, connectivity testing, backup planning, and business continuity.
 
-Repository coming soon.
+🔗 [secure-corporate-network-infrastructure](https://github.com/hopetawiah/secure-corporate-network-infrastructure)
 
 ---
 
 ## 🏫 Dunamis Crown Academy School ERP
 
-Production School ERP demonstrating software engineering, access governance, cybersecurity controls, analytics, auditability, backup and recovery, and secure administration.
+Production secure School ERP demonstrating software engineering, access governance, authentication, auditability, cybersecurity controls, analytics, backup and recovery, and secure administration.
 
 🔗 [dunamis-school-erp-portfolio](https://github.com/hopetawiah/dunamis-school-erp-portfolio)
+
+🌐 [Live System](https://portal.dunamiscrownacademy.com/)
 
 ---
 
